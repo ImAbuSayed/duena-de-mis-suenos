@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mis-suenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dueña de mis sueños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-suenos/) |
+| **Get License** | [Official Music Licensing for Dueña de mis sueños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-suenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5ac4df6d1c50c2ed74c1cc717b65056a9bafb4cb71fa391abe442d5b5681fd1f` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
