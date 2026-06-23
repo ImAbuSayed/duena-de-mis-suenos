@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mis-suenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dueña de mis sueños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-suenos/) |
+| **Get License** | [Secure Licensing Rights for Dueña de mis sueños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-suenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby tú eres la dueña de mis sueños, yeah
+> Bailando en la disco sin miedo ni dueño
+> Tu cuerpo me llama, I feel the desire
+> Con esa mirada me prendes on fire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
